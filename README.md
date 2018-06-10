@@ -2,9 +2,9 @@
 
 > A Vue.js Template build with. vuejs, bulma and firebase
 <div align="center">
-  <p><img width="200" src="https://drive.google.com/file/d/151fhQLeB6Qgml_7styKAdRgGXqTTwhye/view?usp=sharing"></p>
-  <p><img width="200" src="https://drive.google.com/file/d/1UdgnAU_wexnmQcP9rMmPGau9tRHbQan6/view?usp=sharing"></p>
-  <p><img width="200" src="https://drive.google.com/file/d/1r8VIPbvKIJLjihHeYovxklq7qzTLa4EN/view?usp=sharing"></p>
+  <p><img width="200" src="@/assets/1.png"></p>
+  <p><img width="200" src="@/assets/1.png"></p>
+  <p><img width="200" src="@/assets/1.png"></p>
 </div>
 
 # A template configurated with firebase.auth(), integrate i18n, and other features that help you begin new projects in Vue.js
